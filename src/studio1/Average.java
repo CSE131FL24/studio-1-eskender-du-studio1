@@ -13,7 +13,7 @@ public class Average {
 		int n2 = in.nextInt();
 		
 		double Average = (n1+n2)/2.0;
-		System.out.println("Average of"+n1+"and"+n2+"is"+Average);
+		System.out.println("Average of "+n1+" and "+n2+" is "+Average);
 
 	}
 
